@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-	
 <Document id="root_doc">
 <Folder><name>Europe</name>
 </Folder>
@@ -9,7 +8,7 @@
 <Folder><name>Routes</name>
   <Placemark>
 	<name>Lisboa to Spain Stylized</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Routes">
 		<SimpleData name="tessellate">1</SimpleData>
 		<SimpleData name="extrude">0</SimpleData>
@@ -19,7 +18,7 @@
   <Placemark>
 	<name>Rua da Praia Forvosa -&gt; Travessa dos Piornais -&gt; Travessa da Escola Hoteleira</name>
 	<description>paralel to existing power line route, 60Kv, 6,6kV and low voltage - 1100m</description>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Routes">
 		<SimpleData name="tessellate">1</SimpleData>
 		<SimpleData name="extrude">0</SimpleData>
@@ -28,7 +27,7 @@
   </Placemark>
   <Placemark>
 	<name>Sines to Lisbon Stylized</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Routes">
 		<SimpleData name="tessellate">1</SimpleData>
 		<SimpleData name="extrude">0</SimpleData>
@@ -37,7 +36,7 @@
   </Placemark>
   <Placemark>
 	<name>Sines to Portugal Border Stylized</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Routes">
 		<SimpleData name="tessellate">1</SimpleData>
 		<SimpleData name="extrude">0</SimpleData>
@@ -46,7 +45,7 @@
   </Placemark>
   <Placemark>
 	<name>Route 6T125</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Routes">
 		<SimpleData name="tessellate">1</SimpleData>
 		<SimpleData name="extrude">0</SimpleData>
@@ -55,7 +54,7 @@
   </Placemark>
   <Placemark>
 	<name>Route 4T125</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Routes">
 		<SimpleData name="tessellate">1</SimpleData>
 		<SimpleData name="extrude">0</SimpleData>
@@ -64,7 +63,7 @@
   </Placemark>
   <Placemark>
 	<name>Route 1T40</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Routes">
 		<SimpleData name="tessellate">1</SimpleData>
 		<SimpleData name="extrude">0</SimpleData>
@@ -73,7 +72,7 @@
   </Placemark>
   <Placemark>
 	<name>Beach route</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Routes">
 		<SimpleData name="tessellate">1</SimpleData>
 		<SimpleData name="extrude">0</SimpleData>
@@ -83,7 +82,7 @@
   <Placemark>
 	<name>Travessa Escola Hoteleira -&gt; Avenida Mario Soares -&gt;Avenida Amparo</name>
 	<description>700 m</description>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Routes">
 		<SimpleData name="tessellate">1</SimpleData>
 		<SimpleData name="extrude">0</SimpleData>
@@ -93,7 +92,7 @@
   <Placemark>
 	<name>Caminho do Amparo -&gt; CLS Amparo</name>
 	<description>400m</description>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Routes">
 		<SimpleData name="tessellate">1</SimpleData>
 		<SimpleData name="extrude">0</SimpleData>
@@ -102,7 +101,7 @@
   </Placemark>
   <Placemark>
 	<name>Spanish Border to Equinix MD2</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Routes">
 		<SimpleData name="tessellate">1</SimpleData>
 		<SimpleData name="extrude">0</SimpleData>
@@ -111,7 +110,7 @@
   </Placemark>
   <Placemark>
 	<name>Madrid Metro</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Routes">
 		<SimpleData name="tessellate">1</SimpleData>
 		<SimpleData name="extrude">0</SimpleData>
@@ -120,7 +119,7 @@
   </Placemark>
   <Placemark>
 	<name>Spanish Border to Interxion MAD1</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Routes">
 		<SimpleData name="tessellate">1</SimpleData>
 		<SimpleData name="extrude">0</SimpleData>
@@ -129,7 +128,7 @@
   </Placemark>
   <Placemark>
 	<name>ELLALINK - Praia (Cape Verde) Primary land Route preferred option as surveyed 14012020</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Routes">
 		<SimpleData name="altitudeMode">clampToSeaFloor</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
@@ -200,7 +199,7 @@
 <Folder><name>Backhauls</name>
   <Placemark>
 	<name>Abordagem SP3</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -208,7 +207,7 @@
   </Placemark>
   <Placemark>
 	<name>ALOG x TAMBORÉ 2</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -216,7 +215,7 @@
   </Placemark>
   <Placemark>
 	<name>BRE AL - Terremark</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -224,7 +223,7 @@
   </Placemark>
   <Placemark>
 	<name>CO - SI</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -232,7 +231,7 @@
   </Placemark>
   <Placemark>
 	<name>CO-JD</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -240,7 +239,7 @@
   </Placemark>
   <Placemark>
 	<name>JD - PI</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -248,7 +247,7 @@
   </Placemark>
   <Placemark>
 	<name>JG - OS</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -256,7 +255,7 @@
   </Placemark>
   <Placemark>
 	<name>LP-RO</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -264,7 +263,7 @@
   </Placemark>
   <Placemark>
 	<name>LP-RO</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -272,7 +271,7 @@
   </Placemark>
   <Placemark>
 	<name>OCO RO - TErremark</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -280,7 +279,7 @@
   </Placemark>
   <Placemark>
 	<name>OS - AL</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -288,7 +287,7 @@
   </Placemark>
   <Placemark>
 	<name>PD-LP</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -296,7 +295,7 @@
   </Placemark>
   <Placemark>
 	<name>PI - JG</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -304,7 +303,7 @@
   </Placemark>
   <Placemark>
 	<name>Santos-Sao Paulo Route SP-160</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -312,7 +311,7 @@
   </Placemark>
   <Placemark>
 	<name>Santos-Sao Paulo Route SP-150</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -320,7 +319,7 @@
   </Placemark>
   <Placemark>
 	<name>SI - PD</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -328,7 +327,7 @@
   </Placemark>
   <Placemark>
 	<name>SIF x TAMBORÉ 1</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -336,7 +335,7 @@
   </Placemark>
   <Placemark>
 	<name>TAMBORÉ 1 x ALOG</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -344,7 +343,7 @@
   </Placemark>
   <Placemark>
 	<name>TAMBORÉ 2 x TERREMARK</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -352,7 +351,7 @@
   </Placemark>
   <Placemark>
 	<name>TERREMARK x SIF</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -360,7 +359,7 @@
   </Placemark>
   <Placemark>
 	<name>Rio LS-Rio POP Route B</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -368,7 +367,7 @@
   </Placemark>
   <Placemark>
 	<name>Trecho Existente</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -376,7 +375,7 @@
   </Placemark>
   <Placemark>
 	<name>Trecho Existente</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -384,7 +383,7 @@
   </Placemark>
   <Placemark>
 	<name>Trecho Existente</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -392,7 +391,7 @@
   </Placemark>
   <Placemark>
 	<name>Trecho Existente</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -400,7 +399,7 @@
   </Placemark>
   <Placemark>
 	<name>Trecho Existente</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -408,7 +407,7 @@
   </Placemark>
   <Placemark>
 	<name>Trecho Existente</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -418,7 +417,7 @@
 	<name>BMH Rio</name>
 	<description>BMH &lt;--&gt; Estación Rio
 Proveedor TIWS</description>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -426,7 +425,7 @@ Proveedor TIWS</description>
   </Placemark>
   <Placemark>
 	<name>Rio LS - Rio POP Route A</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhauls">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -455,7 +454,7 @@ Cep: 20940 - 070</description>
 <Folder><name>Backhaul</name>
   <Placemark>
 	<name>Telxius FH 1 Fortaleza</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhaul">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -463,7 +462,7 @@ Cep: 20940 - 070</description>
   </Placemark>
   <Placemark>
 	<name>Telxius FH 2 Fortaleza</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Backhaul">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -739,7 +738,7 @@ Cep: 20940 - 070</description>
 <Folder><name>Cabo_EllaLink</name>
   <Placemark>
 	<name>Cable</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Cabo_EllaLink">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -753,7 +752,7 @@ Cep: 20940 - 070</description>
 <Folder><name>EllaLink</name>
   <Placemark>
 	<name>EllaLink Stylized</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#EllaLink">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -761,7 +760,7 @@ Cep: 20940 - 070</description>
   </Placemark>
   <Placemark>
 	<name>Cabo Verde Branch</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#EllaLink">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -769,7 +768,7 @@ Cep: 20940 - 070</description>
   </Placemark>
   <Placemark>
 	<name>Madeira Branch</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#EllaLink">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -779,7 +778,7 @@ Cep: 20940 - 070</description>
 <Folder><name>BRUSA</name>
   <Placemark>
 	<name>BRUSA Stylized</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#BRUSA">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -789,7 +788,7 @@ Cep: 20940 - 070</description>
 <Folder><name>SAM</name>
   <Placemark>
 	<name>Sam 1 Seg 1</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#SAM">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -797,7 +796,7 @@ Cep: 20940 - 070</description>
   </Placemark>
   <Placemark>
 	<name>SAM 1 Seg 2 Rio</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#SAM">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -805,7 +804,7 @@ Cep: 20940 - 070</description>
   </Placemark>
   <Placemark>
 	<name>SAM 1 Seg 3 Fortaleza</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#SAM">
 		<SimpleData name="tessellate">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -815,7 +814,7 @@ Cep: 20940 - 070</description>
 <Folder><name>Junior</name>
   <Placemark>
 	<name>Route RIO - SP</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Junior">
 		<SimpleData name="altitudeMode">clampToSeaFloor</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
