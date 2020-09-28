@@ -5,7 +5,7 @@
     <description/>
     <Style id="line-558B2F-9719-nodesc-normal">
       <LineStyle>
-        <color>ff2f8b55</color>
+        <color>7D240A</color>
         <width>9.719</width>
       </LineStyle>
       <BalloonStyle>
@@ -14,7 +14,7 @@
     </Style>
     <Style id="line-558B2F-9719-nodesc-highlight">
       <LineStyle>
-        <color>ff2f8b55</color>
+        <color>7D240A</color>
         <width>14.5785</width>
       </LineStyle>
       <BalloonStyle>
